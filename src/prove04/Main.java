@@ -4,8 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 	    System.out.println("Hello, my name is Gui.");
-	    Syste.out.println("Austin was here");
-	    text = "              uu$$$$$$$$$$$uu\n" +
+	    System.out.println("Austin was here");
+	    String text =
+                "                  uu$$$$$$$$$$$uu\n" +
                 "              uu$$$$$$$$$$$$$$$$$uu\n" +
                 "             u$$$$$$$$$$$$$$$$$$$$$u\n" +
                 "            u$$$$$$$$$$$$$$$$$$$$$$$u\n" +
@@ -31,5 +32,6 @@ public class Main {
                 "         $$$*                         $$$$*";
 
         System.out.print(text);
+        System.out.println("Hey it's Zach. That skull is very cool.");
     }
 }
