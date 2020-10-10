@@ -33,8 +33,5 @@ public class Main {
 
         System.out.print(text);
         System.out.println("Hey it's Zach. That skull is very cool.");
-
-        // Added for stretch challenge
-        System.out.println("\nThis is added only to later be removed.");
     }
 }
